@@ -1,0 +1,38 @@
+{
+  "source_sha256": "4f0e47824bb5afbf00edafc392547f69d8b5f2cfd00730bad3e53ebfdce6f8ba",
+  "adapter_sha256": "237e291daf42105096344394bb92945c4484a7d09a48da914237c595d72e39e5",
+  "geometry_sha256": "c72bbc7446bed858622f8184b42625808881b327cbf2b7ff4dfae8c1a31c7ea9",
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "loaded_saved_font_natively": true,
+  "bound_font_unchanged": true,
+  "tolerance_u": 0.001,
+  "sample_count": 2002,
+  "passed": 2,
+  "failed": 0,
+  "rows": [
+    {
+      "id": "kink.test/0/3",
+      "peak": {
+        "error_u": 2.1901942360117704e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.399
+      },
+      "sample_count": 1001
+    },
+    {
+      "id": "smooth.control/0/3",
+      "peak": {
+        "error_u": 4.910493971543718e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.637
+      },
+      "sample_count": 1001
+    }
+  ],
+  "sampled_only": true
+}

@@ -1,0 +1,67 @@
+{
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "adapter_sha256": "8adb640e379720a1b50fb5378ce0cb61ba209e8c97559bc41126c728bbff340a",
+  "geometry_sha256": "10c4c99c202d4818288d8d8b355aee3506b8dbf94225e105652c90385d766f77",
+  "passed": 0,
+  "failed": 9,
+  "copy_tests_left_fixture_unchanged": true,
+  "tests": [
+    {
+      "name": "review_readonly_five_one_entry_proposals",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 43, in review_and_minimality\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "selected_apply_repeat_noop",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 54, in selected_apply_repeat\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "stale_review_rejected",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 66, in stale_guard\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "existing_local_hoi_preserved",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 84, in existing_hoi\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "unrelated_attributes_preserved",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 95, in other_axis_preservation\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "source_and_topology_exclusions",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 113, in source_and_topology_exclusions\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "strict_native_threshold",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 124, in strict_threshold\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "arbitrary_multiple_path_discovery",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 141, in multiple_paths\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    },
+    {
+      "name": "failed_commit_rolls_back",
+      "status": "fail",
+      "error": "Bound document path mismatch",
+      "traceback": "Traceback (most recent call last):\n  File \"<glyphs-mcp-script>\", line 35, in test\n  File \"<glyphs-mcp-script>\", line 147, in rollback_failure\n  File \"native_adapter.py\", line 209, in execute\nValueError: Bound document path mismatch\n"
+    }
+  ]
+}

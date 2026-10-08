@@ -1,0 +1,4 @@
+interface:
+  display_name: "Native Dekink"
+  short_description: "Review and fix Glyphs interpolation kinks"
+  default_prompt: "Use $dekink-native to review interpolation kinks above 1u and propose minimal native HOI corrections without changing the font."

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-08",
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "state": "uncertain",
+  "error": {
+    "code": "glyphs_busy",
+    "message": "Queued Glyphs call cancelled"
+  },
+  "workflow_id": "edit_a5f1436524644fb8978e836d03a47411",
+  "job_id": "job_153d832c0da54e589fa3346e7175ec21",
+  "document_id": "doc_bd7f67aa289a43da90f263510f8404cc",
+  "qualification_report_present": false,
+  "native_ui_inspection": "timed out",
+  "native_adapter_qualified": false,
+  "saved_file_verification": "not run",
+  "replay_performed": false,
+  "source_sha256": {
+    "qualify_native.py": "934d653fda8d94faa0821675bf4ebfe8fdf5ada2e4791e87e07418e87f7b7fb2",
+    "native_adapter.py": "8adb640e379720a1b50fb5378ce0cb61ba209e8c97559bc41126c728bbff340a",
+    "build_fixture.py": "9434e7d582ec7f34934288a70b3daaeb548b8202365a3a6ff1b74b241d1c77c5",
+    "verify_saved.py": "e9a25e5ca2f03b5208d8ce8274aa1fa3ed9174ba25af143dececce29742111bb",
+    "geometry.py": "10c4c99c202d4818288d8d8b355aee3506b8dbf94225e105652c90385d766f77"
+  },
+  "recovery": {
+    "date": "2026-10-08",
+    "after_user_restart": true,
+    "reconciled_outcome": "bridge_operation_lost",
+    "offered_acknowledgment_used": true,
+    "replayed": false,
+    "counted_as_pass": false,
+    "subsequent_original_fixture_test": "passed; see previous-font-saved-verification.json"
+  }
+}

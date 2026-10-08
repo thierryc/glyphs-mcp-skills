@@ -1,0 +1,74 @@
+{
+  "phase": "sample",
+  "status": "pass",
+  "last_stage": "complete",
+  "expected_path": "/Users/thierryc/Documents/kink-skill/rebuild/dekink-native/fonts/Dekink-Previous-Font-Test.glyphs",
+  "adapter_sha256": "8adb640e379720a1b50fb5378ce0cb61ba209e8c97559bc41126c728bbff340a",
+  "geometry_sha256": "10c4c99c202d4818288d8d8b355aee3506b8dbf94225e105652c90385d766f77",
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "context": {
+    "axis": "wght",
+    "layers": [
+      "4DEC7E60-5F80-4A8B-996B-9F1DB01D667C",
+      "0E5617E7-8996-4646-821A-03BB8A021C6C"
+    ],
+    "locations": [
+      100.0,
+      900.0
+    ],
+    "path": "/Users/thierryc/Documents/kink-skill/rebuild/dekink-native/fonts/Dekink-Previous-Font-Test.glyphs"
+  },
+  "native": {
+    "kink.test/0/3": {
+      "peak": {
+        "error_u": 37.252184810556955,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.5
+      },
+      "midpoint": {
+        "error_u": 37.252184810556955,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.5
+      },
+      "sample_count": 3,
+      "invalid": false,
+      "samples": [
+        {
+          "error_u": 0.0,
+          "degenerate": false,
+          "folded": false,
+          "factor": 0
+        },
+        {
+          "error_u": 37.252184810556955,
+          "degenerate": false,
+          "folded": false,
+          "factor": 0.5
+        },
+        {
+          "error_u": 0.0,
+          "degenerate": false,
+          "folded": false,
+          "factor": 1
+        }
+      ]
+    }
+  },
+  "excluded": [
+    {
+      "path": 0,
+      "node": 0,
+      "reason": "intentional_corner"
+    },
+    {
+      "path": 0,
+      "node": 6,
+      "reason": "intentional_corner"
+    }
+  ]
+}

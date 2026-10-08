@@ -1,0 +1,203 @@
+{
+.appVersion = "4108";
+.formatVersion = 4;
+DisplayStrings = (
+"/kink.test/smooth.control",
+"/kink.test",
+);
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+);
+date = "2026-10-07 15:38:32 +0000";
+fontMaster = (
+{
+axesValues = (
+100,
+);
+id = "4DEC7E60-5F80-4A8B-996B-9F1DB01D667C";
+name = Light;
+},
+{
+axesValues = (
+900,
+);
+id = "0E5617E7-8996-4646-821A-03BB8A021C6C";
+name = Bold;
+},
+);
+glyphs = (
+{
+glyphname = kink.test;
+lastChange = "2026-10-08 10:37:58 +0000";
+layers = (
+{
+layerId = "4DEC7E60-5F80-4A8B-996B-9F1DB01D667C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,40,l),
+(30,110,o),
+(60,200,o),
+(200,200,cs,{
+hoi = {
+wght = {
+ip = (227.71788,234.66107);
+};
+};
+}),
+(240,200,o),
+(330,130,o),
+(320,50,c),
+);
+},
+);
+width = 600;
+},
+{
+layerId = "0E5617E7-8996-4646-821A-03BB8A021C6C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,40,l),
+(300,40,o),
+(300,120,o),
+(300,200,cs),
+(300,400,o),
+(440,390,o),
+(440,50,c),
+);
+},
+);
+width = 600;
+},
+);
+},
+{
+glyphname = smooth.control;
+lastChange = "2026-10-07 15:40:24 +0000";
+layers = (
+{
+layerId = "4DEC7E60-5F80-4A8B-996B-9F1DB01D667C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,40,l),
+(30,110,o),
+(60,200,o),
+(200,200,cs),
+(240,200,o),
+(330,130,o),
+(320,50,c),
+);
+},
+);
+width = 600;
+},
+{
+layerId = "0E5617E7-8996-4646-821A-03BB8A021C6C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(80,40,l),
+(300,0,o),
+(300,60,o),
+(300,200,cs),
+(300,240,o),
+(440,300,o),
+(440,50,c),
+);
+},
+);
+width = 600;
+},
+);
+},
+);
+instances = (
+{
+axesValues = (
+500,
+);
+id = "DA6D5518-A008-43FA-A5BD-6814232BA6E3";
+instanceInterpolations = {
+"0E5617E7-8996-4646-821A-03BB8A021C6C" = 0.5;
+"4DEC7E60-5F80-4A8B-996B-9F1DB01D667C" = 0.5;
+};
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Regular;
+},
+);
+},
+);
+},
+{
+axesValues = (
+100,
+);
+id = "CF4DDC1E-037C-4CB7-9353-68EF4F734028";
+instanceInterpolations = {
+"4DEC7E60-5F80-4A8B-996B-9F1DB01D667C" = 1;
+};
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Light;
+},
+);
+},
+);
+},
+{
+axesValues = (
+900,
+);
+id = "821C70CA-5A71-4ABA-B413-564BC3AD902E";
+instanceInterpolations = {
+"0E5617E7-8996-4646-821A-03BB8A021C6C" = 1;
+};
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Bold;
+},
+);
+},
+);
+},
+);
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Dekink Disposable Validation";
+},
+);
+},
+);
+unitsPerEm = 1000;
+userData = {
+dekink.fixture = "dekink-fixture-test-v1";
+};
+versionMajor = 1;
+versionMinor = 0;
+}

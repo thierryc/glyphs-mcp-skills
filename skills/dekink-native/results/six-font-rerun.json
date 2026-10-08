@@ -1,0 +1,156 @@
+{
+  "mode": "review",
+  "fingerprint": "ca708caa9ad8d9950472d5efa312224a4c9c810a0f669ecfb73ee4ef4d76e365",
+  "context": {
+    "axis": "wght",
+    "layers": [
+      "0C1A9C3F-FCD7-4EBA-8FB5-0F1E78A4E7C2",
+      "158EF8F4-53FA-4BB1-A417-00243C2E3BAA"
+    ],
+    "locations": [
+      100.0,
+      900.0
+    ],
+    "path": "/Users/thierryc/Documents/kink-skill/rebuild/dekink-native/fonts/Dekink-Rebuild-Repaired.glyphs"
+  },
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "threshold_u": 1.0,
+  "tolerance_u": 0.001,
+  "factors": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+  ],
+  "issues": [],
+  "excluded": [
+    {
+      "path": 0,
+      "node": 0,
+      "reason": "intentional_corner",
+      "glyph": "cubic.asymmetric"
+    },
+    {
+      "path": 0,
+      "node": 6,
+      "reason": "intentional_corner",
+      "glyph": "cubic.asymmetric"
+    },
+    {
+      "path": 0,
+      "node": 0,
+      "reason": "intentional_corner",
+      "glyph": "cubic.rotated"
+    },
+    {
+      "path": 0,
+      "node": 6,
+      "reason": "intentional_corner",
+      "glyph": "cubic.rotated"
+    },
+    {
+      "path": 0,
+      "node": 0,
+      "reason": "intentional_corner",
+      "glyph": "curve.to.line"
+    },
+    {
+      "path": 0,
+      "node": 4,
+      "reason": "intentional_corner",
+      "glyph": "curve.to.line"
+    },
+    {
+      "path": 0,
+      "node": 0,
+      "reason": "intentional_corner",
+      "glyph": "line.middle"
+    },
+    {
+      "path": 0,
+      "node": 1,
+      "reason": "intentional_corner",
+      "glyph": "line.middle"
+    },
+    {
+      "path": 0,
+      "node": 3,
+      "reason": "intentional_corner",
+      "glyph": "line.middle"
+    },
+    {
+      "path": 0,
+      "node": 4,
+      "reason": "intentional_corner",
+      "glyph": "line.middle"
+    },
+    {
+      "path": 0,
+      "node": 0,
+      "reason": "intentional_corner",
+      "glyph": "line.to.curve"
+    },
+    {
+      "path": 0,
+      "node": 1,
+      "reason": "intentional_corner",
+      "glyph": "line.to.curve"
+    },
+    {
+      "path": 0,
+      "node": 5,
+      "reason": "intentional_corner",
+      "glyph": "line.to.curve"
+    },
+    {
+      "path": 0,
+      "node": 0,
+      "reason": "intentional_corner",
+      "glyph": "smooth.control"
+    },
+    {
+      "path": 0,
+      "node": 1,
+      "reason": "intentional_corner",
+      "glyph": "smooth.control"
+    },
+    {
+      "path": 0,
+      "node": 3,
+      "reason": "intentional_corner",
+      "glyph": "smooth.control"
+    },
+    {
+      "path": 0,
+      "node": 4,
+      "reason": "intentional_corner",
+      "glyph": "smooth.control"
+    }
+  ],
+  "plans": [],
+  "applied_entries": 0,
+  "sampled_only": true,
+  "proof_layers_added": 0,
+  "live_unchanged": true,
+  "final_fingerprint": "ca708caa9ad8d9950472d5efa312224a4c9c810a0f669ecfb73ee4ef4d76e365"
+}
