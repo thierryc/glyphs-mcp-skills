@@ -1,0 +1,326 @@
+{
+  "phase": "inspect",
+  "status": "pass",
+  "last_stage": "complete",
+  "expected_path": "/Users/thierryc/Documents/kink-skill/rebuild/dekink-native/fonts/Dekink-Previous-Font-Test.glyphs",
+  "adapter_sha256": "8adb640e379720a1b50fb5378ce0cb61ba209e8c97559bc41126c728bbff340a",
+  "geometry_sha256": "10c4c99c202d4818288d8d8b355aee3506b8dbf94225e105652c90385d766f77",
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "context": {
+    "axis": "wght",
+    "layers": [
+      "4DEC7E60-5F80-4A8B-996B-9F1DB01D667C",
+      "0E5617E7-8996-4646-821A-03BB8A021C6C"
+    ],
+    "locations": [
+      100.0,
+      900.0
+    ],
+    "path": "/Users/thierryc/Documents/kink-skill/rebuild/dekink-native/fonts/Dekink-Previous-Font-Test.glyphs"
+  },
+  "snapshot": {
+    "kink.test": {
+      "4DEC7E60-5F80-4A8B-996B-9F1DB01D667C": {
+        "width": 600.0,
+        "shape_count": 1,
+        "paths": [
+          {
+            "closed": true,
+            "nodes": [
+              {
+                "xy": [
+                  80.0,
+                  40.0
+                ],
+                "type": 1,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  30.0,
+                  110.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  60.0,
+                  200.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  200.0,
+                  200.0
+                ],
+                "type": 35,
+                "smooth": true,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  240.0,
+                  200.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  330.0,
+                  130.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  320.0,
+                  50.0
+                ],
+                "type": 35,
+                "smooth": false,
+                "attributes": {}
+              }
+            ]
+          }
+        ]
+      },
+      "0E5617E7-8996-4646-821A-03BB8A021C6C": {
+        "width": 600.0,
+        "shape_count": 1,
+        "paths": [
+          {
+            "closed": true,
+            "nodes": [
+              {
+                "xy": [
+                  80.0,
+                  40.0
+                ],
+                "type": 1,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  40.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  120.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  200.0
+                ],
+                "type": 35,
+                "smooth": true,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  400.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  440.0,
+                  390.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  440.0,
+                  50.0
+                ],
+                "type": 35,
+                "smooth": false,
+                "attributes": {}
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "smooth.control": {
+      "4DEC7E60-5F80-4A8B-996B-9F1DB01D667C": {
+        "width": 600.0,
+        "shape_count": 1,
+        "paths": [
+          {
+            "closed": true,
+            "nodes": [
+              {
+                "xy": [
+                  80.0,
+                  40.0
+                ],
+                "type": 1,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  30.0,
+                  110.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  60.0,
+                  200.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  200.0,
+                  200.0
+                ],
+                "type": 35,
+                "smooth": true,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  240.0,
+                  200.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  330.0,
+                  130.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  320.0,
+                  50.0
+                ],
+                "type": 35,
+                "smooth": false,
+                "attributes": {}
+              }
+            ]
+          }
+        ]
+      },
+      "0E5617E7-8996-4646-821A-03BB8A021C6C": {
+        "width": 600.0,
+        "shape_count": 1,
+        "paths": [
+          {
+            "closed": true,
+            "nodes": [
+              {
+                "xy": [
+                  80.0,
+                  40.0
+                ],
+                "type": 1,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  0.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  60.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  200.0
+                ],
+                "type": 35,
+                "smooth": true,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  300.0,
+                  240.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  440.0,
+                  300.0
+                ],
+                "type": 65,
+                "smooth": false,
+                "attributes": {}
+              },
+              {
+                "xy": [
+                  440.0,
+                  50.0
+                ],
+                "type": 35,
+                "smooth": false,
+                "attributes": {}
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

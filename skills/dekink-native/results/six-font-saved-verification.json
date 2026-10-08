@@ -1,0 +1,78 @@
+{
+  "source_sha256": "359ac43bf09b2f633d7146fa0c16bc8ece8cd1802126705692d4aacdfb66ca44",
+  "adapter_sha256": "237e291daf42105096344394bb92945c4484a7d09a48da914237c595d72e39e5",
+  "geometry_sha256": "c72bbc7446bed858622f8184b42625808881b327cbf2b7ff4dfae8c1a31c7ea9",
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "loaded_saved_font_natively": true,
+  "bound_font_unchanged": true,
+  "tolerance_u": 0.001,
+  "sample_count": 6006,
+  "passed": 6,
+  "failed": 0,
+  "rows": [
+    {
+      "id": "cubic.asymmetric/0/3",
+      "peak": {
+        "error_u": 2.1901942360117704e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.399
+      },
+      "sample_count": 1001
+    },
+    {
+      "id": "cubic.rotated/0/3",
+      "peak": {
+        "error_u": 0.000496889681102624,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.0
+      },
+      "sample_count": 1001
+    },
+    {
+      "id": "curve.to.line/0/3",
+      "peak": {
+        "error_u": 4.265680001198625e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.746
+      },
+      "sample_count": 1001
+    },
+    {
+      "id": "line.middle/0/2",
+      "peak": {
+        "error_u": 1.6531057727292986e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.456
+      },
+      "sample_count": 1001
+    },
+    {
+      "id": "line.to.curve/0/2",
+      "peak": {
+        "error_u": 2.1901942360117704e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.399
+      },
+      "sample_count": 1001
+    },
+    {
+      "id": "smooth.control/0/2",
+      "peak": {
+        "error_u": 0.0,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.0
+      },
+      "sample_count": 1001
+    }
+  ],
+  "sampled_only": true
+}

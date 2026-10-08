@@ -1,0 +1,93 @@
+{
+  "source_sha256": "e278dab22dd5db059dd1d0d29c05c7430a2ff227792a8d7398c4425aa1f81ad2",
+  "adapter_sha256": "42c0dc821a630d805630c30a91f82cbdb50f168fd57aa975d86e57a7dc22e03e",
+  "geometry_sha256": "e4bf2e3b887cc1c40e3436af99d813267bccd8f2145e6c3c6cfab8d80e88059c",
+  "host": {
+    "version": "4.1.1",
+    "build": 4108
+  },
+  "scope": [
+    "cubic.asymmetric",
+    "cubic.rotated",
+    "curve.to.line",
+    "line.middle",
+    "line.to.curve",
+    "smooth.control"
+  ],
+  "loaded_saved_font_natively": true,
+  "bound_font_unchanged": true,
+  "master_geometry_matches_baseline": true,
+  "tolerance_u": 0.001,
+  "sample_count": 6006,
+  "passed": 6,
+  "failed": 0,
+  "rows": [
+    {
+      "id": "cubic.asymmetric/0/3",
+      "peak": {
+        "error_u": 2.1901942360117704e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.399
+      },
+      "sample_count": 1001,
+      "passed": true
+    },
+    {
+      "id": "cubic.rotated/0/3",
+      "peak": {
+        "error_u": 0.000496889681102624,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.0
+      },
+      "sample_count": 1001,
+      "passed": true
+    },
+    {
+      "id": "curve.to.line/0/3",
+      "peak": {
+        "error_u": 4.265680001198625e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.746
+      },
+      "sample_count": 1001,
+      "passed": true
+    },
+    {
+      "id": "line.middle/0/2",
+      "peak": {
+        "error_u": 1.6531057727292986e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.456
+      },
+      "sample_count": 1001,
+      "passed": true
+    },
+    {
+      "id": "line.to.curve/0/2",
+      "peak": {
+        "error_u": 2.1901942360117704e-06,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.399
+      },
+      "sample_count": 1001,
+      "passed": true
+    },
+    {
+      "id": "smooth.control/0/2",
+      "peak": {
+        "error_u": 0.0,
+        "degenerate": false,
+        "folded": false,
+        "factor": 0.0
+      },
+      "sample_count": 1001,
+      "passed": true
+    }
+  ],
+  "sampled_only": true
+}
