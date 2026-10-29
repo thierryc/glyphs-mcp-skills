@@ -153,9 +153,10 @@
       "license": "Apache-2.0; supporting resources retain their original licenses",
       "classification": "curated",
       "source": {
-        "repository": "https://github.com/thierryc/Glyphs-mcp",
+        "repository": "https://github.com/thierryc/glyphs-mcp-skills",
         "directory": "skills/glyphs-mcp-path-doctor",
-        "revision": "a893fd64e2b8dac2c64697b62bc2c4bec492d03d"
+        "revision": "bf64cb1c597318dcde872f0e9afc675e3f925710",
+        "archiveSHA256": "1da2f3b73f1a8dd445d27e101796826689d7bb02307ad3add525231309a7bb65"
       },
       "compatibleClients": [
         "codex",
@@ -168,7 +169,8 @@
         "Glyphs 4 and Glyphs MCP with path.diagnostics.v1 for structural diagnosis; seam repair additionally requires qualified outline.normalize-closed-seam.v1.",
         "Interior Pen-point cleanup uses script.native.v1 and script.recovery.snapshot.v1 on disposable copies; native expansion and master/profile correspondence require qualification. Observed on Glyphs 4.2 (4202)."
       ],
-      "bundled": true
+      "bundled": false,
+      "displayName": "Glyphs Path Doctor"
     },
     {
       "id": "builtin:glyphs-mcp-development",
