@@ -146,6 +146,31 @@
       "bundled": true
     },
     {
+      "id": "builtin:glyphs-mcp-path-doctor",
+      "name": "glyphs-mcp-path-doctor",
+      "description": "Diagnose Glyphs paths and Pen-point distribution, preserve master correspondence, and perform explicitly requested qualified seam repairs or measured stroke-profile cleanup.",
+      "author": "Glyphs MCP contributors",
+      "license": "Apache-2.0; supporting resources retain their original licenses",
+      "classification": "curated",
+      "source": {
+        "repository": "https://github.com/thierryc/Glyphs-mcp",
+        "directory": "skills/glyphs-mcp-path-doctor",
+        "revision": "a893fd64e2b8dac2c64697b62bc2c4bec492d03d"
+      },
+      "compatibleClients": [
+        "codex",
+        "cursor",
+        "claudeCode",
+        "chatgpt",
+        "claude"
+      ],
+      "requirements": [
+        "Glyphs 4 and Glyphs MCP with path.diagnostics.v1 for structural diagnosis; seam repair additionally requires qualified outline.normalize-closed-seam.v1.",
+        "Interior Pen-point cleanup uses script.native.v1 and script.recovery.snapshot.v1 on disposable copies; native expansion and master/profile correspondence require qualification. Observed on Glyphs 4.2 (4202)."
+      ],
+      "bundled": true
+    },
+    {
       "id": "builtin:glyphs-mcp-development",
       "name": "glyphs-mcp-development",
       "description": "Create, test and iterate native Glyphs 4 scripts and plugins in a workspace, including vibe coding and debugging existing plugins.",
