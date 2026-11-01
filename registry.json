@@ -168,7 +168,7 @@
       "requirements": [
         "Glyphs 4 and Glyphs MCP with path.diagnostics.v1 for structural diagnosis; seam repair additionally requires qualified outline.normalize-closed-seam.v1.",
         "Interior Pen-point cleanup uses script.native.v1 and script.recovery.snapshot.v1 on disposable copies; native expansion and master/profile correspondence require qualification. Observed on Glyphs 4.2 (4202).",
-        "Coordinated cleanup and card settings require path.cleanup.v1 and native preparation on a qualified Glyphs host; preserve interpolation correspondence and review held cases."
+        "Coordinated cleanup and card settings require Glyphs MCP 2.5.1 or later with path.cleanup.v1 and native preparation on a qualified Glyphs host; preserve interpolation correspondence and review held cases."
       ],
       "bundled": false,
       "displayName": "Glyphs Path Doctor"
